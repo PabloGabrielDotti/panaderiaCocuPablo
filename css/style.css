@@ -1,0 +1,12 @@
+@media (max-width: 576px) {
+  .slideResponsive {
+    height: 250px;
+    object-fit:cover;
+  }
+}
+
+.imagenCard {height: 150px;}
+
+
+
+.imgCard {width: 100%;}
